@@ -2,7 +2,7 @@
 Este projeto consiste em um sistema simples de gerenciamento de eventos, desenvolvido em Java com o framework Spring Boot. Ele permite a criação, leitura, atualização e exclusão de eventos, além de funcionalidades adicionais, como cálculo de duração dos eventos e regras de negócio envolvendo datas.
 
 # Acesso Documentação
-Para acessar o Swagger é necessário usar o seguinte link em localhost:
+Após executar o Aplicativo, para acessar o Swagger é necessário usar o seguinte link em localhost:
 http://localhost:8080/swagger-ui/index.html
 
 # Funcionalidades
