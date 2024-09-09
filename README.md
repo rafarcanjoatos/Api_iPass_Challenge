@@ -14,7 +14,7 @@ Este projeto consiste em um sistema simples de gerenciamento de eventos, desenvo
 - Spring Boot
 - Spring Web
 - Spring Data JPA
-- Banco de Dados H2 (ou outro configurável)
+- Banco de Dados H2
 - Swagger
 - JUnit
 - Docker
